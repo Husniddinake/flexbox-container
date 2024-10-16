@@ -1,0 +1,46 @@
+*{
+list-style: none;
+text-decoration: none;
+}
+.YELLOW{
+    color: yellow;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+body{
+    background-color: #CD5D5D;
+}
+.head_nav{
+    justify-content: space-around;
+    display: flex;
+    text-decoration: none;
+    gap: 155px;
+}
+.z1{
+    color: black;
+    font-size: 30px;
+}
+.box{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1{
+    width: 350px;
+    height: 400px;
+    background-color: black;
+    margin: 20px 0 150px 35px;
+}
+h2{
+    color: white;
+    text-align: center;
+}    
+p{
+    color: white;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
